@@ -1,6 +1,6 @@
 <?php // Example 26-1: functions.php
 $dbhost  = 'localhost';    // Unlikely to require changing
-$dbname  = 'MySQL - kkeller13';   // Modify these...
+$dbname  = 'kkeller13';   // Modify these...
 $dbuser  = 'kkeller13';   // ...variables according
 $dbpass  = 'rmbalkanfattybirchbunny';   // ...to your installation
 $appname = "Robin's Nest"; // ...and preference
